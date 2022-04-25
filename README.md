@@ -6,4 +6,4 @@
 
 最新
 ---
-[Vue组件](https://github.com/ParanoidSu/blog/issues/1)
+[Vue组件通信总结](https://github.com/ParanoidSu/blog/issues/1)
