@@ -6,4 +6,4 @@
 
 最新
 ---
-[Js语法规范](https://github.com/ParanoidSu/blog/issues/1)
+[Vue组件](https://github.com/ParanoidSu/blog/issues/1)
